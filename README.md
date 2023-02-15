@@ -1,6 +1,6 @@
 ![MasterHead](https://visme.co/blog/wp-content/uploads/2020/06/animated-interactive-infographics-header-wide.gif)
 <h1 align="center">Hi 👋, I'm Armando García</h1>
-<h3 align="center">An innovation and development engineer with a minor in Business Intelligence from Mexico, passionate for pursuing a carrer of Data Analytics/Science.</h3>
+<h3 align="center">An Innovation and Development Engineer with a minor in Business Intelligence from Mexico, passionate for pursuing a carrer of Data Analytics/Science.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.aalpha.net/wp-content/uploads/2019/10/data-science-giphy.gif">
 
 
